@@ -1,0 +1,26 @@
+<annotation>
+    <folder>NA</folder>
+    <filename>3754.png</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fall</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>10</xmin>
+            <ymin>184</ymin>
+            <xmax>145</xmax>
+            <ymax>223</ymax>
+        </bndbox>
+    </object>
+</annotation>
